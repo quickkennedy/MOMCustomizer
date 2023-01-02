@@ -1,5 +1,3 @@
-# MOMCustomizer
-
 ![MOM CUSTOMIZER](title.png)
 
- tool for customizing MOM
+a tool for customizing visual aspects of MOM
