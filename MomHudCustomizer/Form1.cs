@@ -57,8 +57,8 @@ namespace MomHudCustomizer
                         fontFile = "handelgothic.ttf";
                         break;
                     case "surface": // SURFACE
-                        chosenFont = "todo"; // TODO: WORKING SURFACE FONT NAME
-                        fontFile = "handelgothic.ttf";
+                        chosenFont = "Surface"; // TODO: WORKING SURFACE FONT NAME
+                        fontFile = "surface.otf";
                         break;
                     default:
                         chosenFont = "FIXME, UNSELECTED FONT???";
